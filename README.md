@@ -19,3 +19,12 @@ pip3 install py installer
 /diretorio_do_arquivo/ pyinstaller --onefile --noconsole 'nome_do_arquivo'.py
 
 Se der erro de chamada ( pyinstaller não existe) ( Adicionar o caminho HOME ao Path ) export PATH="$HOME/.local/bin:$PATH"
+
+##############    Utilização do Software     #################
+
+- Ao abrir o Software carregar a tabela de faturamento df.csv 
+- Escolher o tipo de Predição no radio button
+- Aplicar a Predição 
+- Ler os dados no lineEdit
+
+###############################################################
