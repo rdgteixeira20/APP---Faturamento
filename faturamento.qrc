@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="faturamento">
+    <file>iconefinanceiro.png.svg</file>
+  </qresource>
+  <qresource/>
+</RCC>
